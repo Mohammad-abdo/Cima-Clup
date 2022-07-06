@@ -23,7 +23,7 @@ html {
 }
 }
 body {
-  background-image: url(../img/patrick-langwallner-wiFOaBrX_wc-unsplash.jpg);
+  background-image: url(../patrick-langwallner-wiFOaBrX_wc-unsplash.jpg);
   background-size: cover;
   background-attachment: fixed;
   width: 100%;
@@ -805,14 +805,15 @@ margin-top: 5px;
 }
 @media (max-width:400px){
   .my-movies{
-    margin: 24px 13px;
+    margin: 24px 8px;
   }
   .movie-row{
     margin: 12px 5px;
   }
   .movie-row img{
-    width: 164px;
-    height: 300px;
+    width: 160
+      px;
+    height: 290px;
   }
 }
 
