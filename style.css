@@ -467,6 +467,7 @@ body::before {
   overflow: hidden;
 }
 .movie-list {
+  display: flex;
 }
 .movie-list-item {
   position: relative;
